@@ -1,3 +1,9 @@
 {
-    "chromeWebSecurity": false
+    "chromeWebSecurity": false,
+    "ignoreTestFiles": [
+        "**/1-getting-started/*",
+        "**/1-advanced-examples/*"
+    ]
+    
+
 }
